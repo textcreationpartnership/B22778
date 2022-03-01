@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome for the Great Turke, or else, The Great Turke for little Rome being a briefe narration of the present calamity of the King of Hungaries country and some other parts adjacent thereunto : with an humble perswasion to all Christian princes to joyne couragiously and unanimously together to lower and suppresse the pride and tyranny of this inhumane and young railing Robshakeh that boldly writes himselfe an implacable enemy to all that professe and owne the name of Christianity.</title>
+            <author>E. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22778</idno>
+            <idno type="STC">Wing F16</idno>
+            <idno type="EEBO-CITATION">11208162</idno>
+            <idno type="OCLC">ocm 11208162</idno>
+            <idno type="VID">204950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rome for the Great Turke, or else, The Great Turke for little Rome being a briefe narration of the present calamity of the King of Hungaries country and some other parts adjacent thereunto : with an humble perswasion to all Christian princes to joyne couragiously and unanimously together to lower and suppresse the pride and tyranny of this inhumane and young railing Robshakeh that boldly writes himselfe an implacable enemy to all that professe and owne the name of Christianity.</title>
+                  <author>E. F.</author>
+               </titleStmt>
+               <extent>[2], 4 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for F. Coles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: E.F.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muslims --  Poetry.</term>
+               <term>Islam --  Controversial literature --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204950:1"/>
+            <pb facs="tcp:204950:1" rendition="simple:additions"/>
+            <p>ROME for the Great <hi>T<g ref="char:V">Ʋ</g>RKE,</hi> OR ELSE, The Great <hi>Turke</hi> for little ROME.</p>
+            <p>BEING A Briefe Narration of the preſent Ca<g ref="char:EOLhyphen"/>lamity of the King of HVNGARIES Country, and ſome other Parts adjacent thereunto.</p>
+            <p>WITH An humble perſwaſion to all <hi>Chriſtian</hi> Princes to joyne couragiouſly and Unanimouſly together, to lower and ſuppreſſe the Pride and Tyranny of this inhumane and young railing <hi>Rabſhakeh:</hi>
+            </p>
+            <p>That boldly Writes himſelfe an implacable Enemy to all that profeſſe and owne the Name of CHRISTIANITY.</p>
+            <figure>
+               <figDesc>woodcut of man in turban</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>F. Coles,</hi> in the Old-Baily, 1664.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:204950:2"/>
+            <pb facs="tcp:204950:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of soldier</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <head>The Preface to the Reader.</head>
+            <p>NOw in the 14. th yeare of King <hi>Hezekiah,</hi> did <hi>Senacherib</hi> King of <hi>Aſsyria,</hi> come up againſt all the fenced Cities of <hi>Juda,</hi> and tooke them.</p>
+            <p>Then <hi>Rabſhakeh</hi> ſtood and cryed with a lowd voyce in the Jewes language, and ſpake ſaying, heare the word of the great King the King of <hi>Aſſyria,</hi> thus
+<pb facs="tcp:204950:3"/> ſaith the King, Let not <hi>Hezekiah</hi> deceive you; for he ſhall not be able to deliver you out of his hand; neither let <hi>Hezekiah</hi> make you truſt in the Lord, ſaying, The Lord will ſurely deliver us.</p>
+            <p>Then came <hi>Eliakim</hi> the Son of <hi>Hilkiah,</hi> which was over the houſhold, and <hi>Shebna</hi> the Scribe, and <hi>Joah</hi> the Son of <hi>Aſaph</hi> the Recorder, to <hi>Hezekiah</hi> with their Cloaths rent, and told him the words of <hi>Rab<g ref="char:EOLhyphen"/>ſhakeh,</hi> and it came to paſſe that night, that the An<g ref="char:EOLhyphen"/>gell of the Lord went out and ſmote in the Campe of the <hi>Aſsyrians,</hi> an hundred fourſcore and five thouſand, and when they aroſe early in the Morning, behold they were all dead Corps. <hi>2 Kings 18. 13, 28, 29, 30, 37, Chap. 19. 35. &amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:204950:3"/>
+            <head>
+               <hi>ROME</hi> for the Great Turke, <hi>OR, ELSE</hi> The Great Turke for little <hi>ROME.</hi>
+            </head>
+            <lg>
+               <l>HEroick <hi>Chriſtians</hi> you doe underſtand,</l>
+               <l>That we have many Foes within our Land,</l>
+               <l>And 'tis a reall truth you need not doubt it,</l>
+               <l>As we have many in, we have more without it.</l>
+               <l>Witneſs that <hi>Sultan</hi> that in Pride declares</l>
+               <l>Hee is 'bove our higheſt, the Sun, the Moone and Stars,</l>
+               <l>And in the heighth of his ambitious pride</l>
+               <l>Speakes againſt CHRIST, that for poor ſinners dy'd.</l>
+               <l>Comparing <hi>Mabomet,</hi> a piece of Clay</l>
+               <l>To him that made the World, and ſprings the Day;</l>
+               <l>And boldly ſayes, his Sepulcher or Tower,</l>
+               <l>Is by his potent ſtrength now in his power:</l>
+               <l>His <hi>Alcaron,</hi> and all the Cheats he hath,</l>
+               <l>He thunders out, to weaken our ſtrong Faith.</l>
+               <l>His <hi>Baſhaws</hi> and his <hi>Ianizaries</hi> too,</l>
+               <l>Confirmes his haughty language to be true.</l>
+               <l>Likewiſe <hi>Vizier</hi> his ſaucy Generall,</l>
+               <l>Sweares what he ſayes, is all Canonicall,</l>
+               <l>And vowes by <hi>Mahomet,</hi> now they have power</l>
+               <l>They will all <hi>Chriſtians</hi> in the world devoure.</l>
+               <pb n="2" facs="tcp:204950:4"/>
+               <l>But let theſe Catiffes dominere and ſweare,</l>
+               <l>And by your leave build caſtles in the ayre:</l>
+               <l>Wee have a Saviour, though they count him ſmall</l>
+               <l>With one word of his mouth ruines 'em all:</l>
+               <l>And when by them, JEHOVAH'S worke is done,</l>
+               <l>Hee'l make his pale three Moones, to kiſs his Son;</l>
+               <l>For if his wrath once throughly kindled be,</l>
+               <l>Hee'l pay 'em home for all their Blaſphemie.</l>
+               <l>In the meane time let every Chriſtian Prince</l>
+               <l>Act in his ſpheare to lower his inſolence;</l>
+               <l>And ſtand not now on trifles, wiſe men ſee</l>
+               <l>Tends not to Peace, to Love, nor Unity.</l>
+               <l>And really thorow Faith implore his ayd,</l>
+               <l>That has the Univerſall fabricke made:</l>
+               <l>Then you ſhall ſee what will become of thoſe</l>
+               <l>That are our SAVIOURS, and his Servants foes.</l>
+               <l>And though the Church of <hi>Rome</hi> we know muſt downe,</l>
+               <l>Being 'gainſt CHRIST, his Scepter and his Crowne.</l>
+               <l>Yet peace and joy will Coronize each one</l>
+               <l>That doth deteſt the Whore of <hi>Babylon;</hi>
+               </l>
+               <l>The houſe of <hi>Auſtria,</hi> that all along</l>
+               <l>Hath done <hi>Meſsiah</hi> and his ſervants wrong,</l>
+               <l>His plumes will now be pluckt to let him know</l>
+               <l>They ſhall be ſafe when he ſhall not be ſo.</l>
+               <l>And when the <hi>Turke</hi> on them has his deſire,</l>
+               <l>He'le burne in Tophet for to make a fire.</l>
+               <l>To reach all <hi>Rabſhakeh;</hi> how they proclaime,</l>
+               <l>Decrees 'gainſt <hi>Chriſt,</hi> and a true Chriſtians name;</l>
+               <l>And as the people of <hi>Iſraell</hi> heretofore,</l>
+               <l>VVe're threat'ned by thoſe that now dare threat no more,</l>
+               <l>Even ſo theſe Uipers they ſhall underſtand,</l>
+               <l>They fight againſt a Power that ſhall Command.</l>
+               <pb n="3" facs="tcp:204950:4"/>
+               <l>For if the Lord of hoſts doth once out-brave 'em,</l>
+               <l>Their three and Thirty Kingdoms, will not ſave 'em.</l>
+               <l>And though <hi>New Hauſell,</hi> lately ſurrendred bee</l>
+               <l>To the Giant <hi>Turke</hi> their greateſt Enemy,</l>
+               <l>Before hee goes much further hee may know,</l>
+               <l>That his owne Slaues may worke his owne overthrow.</l>
+               <l>For thoſe poore Captives, that for many yeares,</l>
+               <l>Has ſerv'd him 'gainſt their will with ſighs and teares,</l>
+               <l>And in his Gallyes taken unceſſant paines,</l>
+               <l>Rowing along their coaſts in Iron Chaines,</l>
+               <l>In luring many a blow upon their back.</l>
+               <l>When their ſad hearts were ready for to crack;</l>
+               <l>And with their Baſtinadoes on their feet,</l>
+               <l>Blow after blow moſt cruelly doth meer.</l>
+               <l>Their Prayers and tears ere long will ſore on high,</l>
+               <l>To ruine him and his Conſpiracy.</l>
+               <l>Now I could wiſh you that drinke Wine in boules,</l>
+               <l>For to ſurvey the miſery of theſe ſoules;</l>
+               <l>And you that lye upon your beds of Downe,</l>
+               <l>And your ſoft heads with Roſes ſeems to Crowne,</l>
+               <l>Sits downe to eat, and riſes up to play,</l>
+               <l>And with vaine ſports do droll your time away;</l>
+               <l>Although that lenity a while forbeares</l>
+               <l>Theſe caſes might be ours as well as theirs,</l>
+               <l>Then <hi>England</hi> be not too ſecure for feare,</l>
+               <l>Though God has bleſt and ſpar'd us many a yeere,</l>
+               <l>If we too long rebell, againſt his Crowne,</l>
+               <l>Iuſtice at length, will fairely cut us downe.</l>
+            </lg>
+            <lg>
+               <head>But to Conclude.</head>
+               <l>Likewiſe their great Prophet that knowes no more,</l>
+               <l>When he may periſh on the Chriſtian ſhore.</l>
+               <pb n="4" facs="tcp:204950:5"/>
+               <l>Then I know when <hi>Pauls</hi> Steeple will be built</l>
+               <l>And her faire Pinacle moſt richly gilt,</l>
+               <l>And though <hi>Hungaria</hi> and ſome other Parts,</l>
+               <l>Suffers a while by his inhumane Darts;</l>
+               <l>GOD in due time, doe what his Forces can,</l>
+               <l>Will wound and ſpoyle this great Leviathan,</l>
+               <l>And hooke his noſtrils for to make him tame,</l>
+               <l>And back againe retreat with griefe and ſhame:</l>
+               <l>And when hee doth with horrour thus returne,</l>
+               <l>
+                  <hi>Conſtantinople</hi> will in Sable mourne.</l>
+            </lg>
+            <p>Which is not only the hope, but alſo the beliefe of one that wiſhes well to all the Proteſtants in the Chriſtian world.</p>
+            <closer>
+               <signed>E. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licenced by Order. Iune, 5. 1664.</p>
+            <pb facs="tcp:204950:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
